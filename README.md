@@ -20,6 +20,6 @@ The first milestone is to generate and visualize a deterministic star system fro
 
 ## Technology
 
-* C++23
+* C99
 * CMake
 * raylib
